@@ -4,3 +4,6 @@ CACHE MANIFEST
 index.html
 style.css
 doge.png
+
+FALLBACK:
+/ /fallback.html
