@@ -6,4 +6,4 @@ style.css
 doge.png
 
 FALLBACK:
-/ /fallback.html
+/offline-test/ /offline-test/fallback.html
