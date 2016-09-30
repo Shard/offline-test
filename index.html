@@ -1,5 +1,5 @@
-<!doctype html manifest="main.appcache">
-<html class="no-js" lang="">
+<!doctype html>
+<html class="no-js" lang="" manifest="main.appcache">
 
   <head>
     <meta charset="utf-8">
@@ -9,7 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css">
   </head>
-
+  <script>
+   // Update to the new cache if changes are detected
+   window.applicationCache.addEventListener('updateReady', (e) => {window.applicationCache.swapcache();}, false);
+  </script>
   <body>
 
     <header><img src="img/logo.png"></header>
