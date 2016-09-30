@@ -1,9 +1,8 @@
 CACHE MANIFEST
-# v2 - 2011-08-13
-# This is a comment.
+# v2 - 2016-09-30
 index.html
-style.css
-doge.png
+img/*
+css/*
 
 FALLBACK:
-/offline-test/ /offline-test/fallback.html
+/ /fallback.html
