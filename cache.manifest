@@ -1,9 +1,17 @@
 CACHE MANIFEST
-# v3 - 2016-09-30
-/
-index.html*
-img/*
-css/*
+# v4 - 2016-09-30
+/index.html
+img/hazard1.png
+img/hazard2.png
+img/hazard3.png
+img/hazard4.png
+img/hazard5.png
+img/hazard6.png
+img/hazard7.png
+img/hazard8.png
+img/logo.png
+img/help.png
+css/main/css
 
 FALLBACK:
 / /fallback.html
