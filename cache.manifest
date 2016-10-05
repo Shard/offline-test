@@ -11,7 +11,7 @@ img/hazard7.png
 img/hazard8.png
 img/logo.png
 img/help.png
-css/main/css
+css/main.css
 
 FALLBACK:
 / /fallback.html
